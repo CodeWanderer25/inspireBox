@@ -29,7 +29,7 @@ project-folder/
 Then add this in README:
 
 ```markdown
-![Project Screenshot](./assets/project.png)
+![Project Screenshot](./assests/project.png)
 ```
 
 ## Author
