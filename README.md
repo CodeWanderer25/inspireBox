@@ -26,11 +26,9 @@ project-folder/
 
 ## Screenshot
 
-Then add this in README:
 
-```markdown
 ![Project Screenshot](./assests/project.png)
-```
+
 
 ## Author
 
